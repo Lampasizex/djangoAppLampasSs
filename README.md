@@ -7,7 +7,7 @@ To start the project: *for Windows
 python -m venv venv
 venv\scripts\activate
 pip install django
-cd IPNP
+cd djangoAppLampasSs
 python manage.py runserver
 5.	Congrats, you started development server at http://127.0.0.1:8000/
 6.	To quit the server use CTRL+C in terminal
