@@ -1,7 +1,7 @@
 # djangoAppLampasSs
 To start the project: *for Windows
 1.	Select a folder you need to clone the project and get in -> empty space right mouse button -> Git Bash Here (Git must be installed)
-2.	Enter: git clone https://github.com/ip-kovylin/IPNewsPortal
+2.	Enter: git clone https://github.com/Lampasizex/djangoAppLampasSs/
 3.	Open project in PyCharm then open its terminal
 4.	Make sure you're in IPNewsPortal folder (otherwise move there by 'cd C:\Users...' command) and enter:
 python -m venv venv
